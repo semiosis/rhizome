@@ -22,7 +22,3 @@ Copyright © 2022 Semiotic LLC
 [[./LICENSE]]
 
 =AGPLv3= or later.
-
-Project originally derived from =ruse=, which is also =AGPL3=.
-
-https://github.com/ahungry/ruse/blob/master/README.md
